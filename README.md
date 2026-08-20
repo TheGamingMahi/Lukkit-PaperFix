@@ -119,9 +119,9 @@ If you encounter issues, please report them with:
 
 ---
 
-## 🚀 Future Plans
+## 🚀 LuaCord
 
-**Luacord** - A modern fork is planned with:
+**[LuaCord](https://github.com/TheGamingMahi/LuaCord)** - A modern fork with:
 - Kotlin rewrite for cleaner, more maintainable code
 - .jar support alongside .lkt files
 - Extended Spigot/Paper API coverage
@@ -129,7 +129,7 @@ If you encounter issues, please report them with:
 - 100% backwards compatible with existing Lukkit plugins
 - Improved developer tooling and documentation
 
-Development will be gradual. Lukkit 2.2.0 remains stable in the meantime.
+LuaCord is under active development. Lukkit 2.2.0 remains stable in the meantime.
 
 ---
 
